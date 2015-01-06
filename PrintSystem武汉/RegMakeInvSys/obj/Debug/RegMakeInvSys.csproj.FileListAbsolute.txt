@@ -1,0 +1,40 @@
+E:\外包目录\项目代码\开票系统\RegMakeInvSys\bin\Debug\RegMakeInvSys.exe
+E:\外包目录\项目代码\开票系统\RegMakeInvSys\bin\Debug\RegMakeInvSys.pdb
+E:\外包目录\项目代码\开票系统\RegMakeInvSys\obj\Debug\ResolveAssemblyReference.cache
+E:\外包目录\项目代码\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.Form1.resources
+E:\外包目录\项目代码\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.Properties.Resources.resources
+E:\外包目录\项目代码\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.csproj.GenerateResource.Cache
+E:\外包目录\项目代码\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.exe
+E:\外包目录\项目代码\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.pdb
+F:\项目\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.exe
+F:\项目\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.pdb
+F:\项目\开票系统\RegMakeInvSys\bin\Debug\RegMakeInvSys.exe
+F:\项目\开票系统\RegMakeInvSys\bin\Debug\RegMakeInvSys.pdb
+F:\项目\开票系统\RegMakeInvSys\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.Form1.resources
+F:\项目\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.Properties.Resources.resources
+F:\项目\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.csproj.GenerateResource.Cache
+D:\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.exe
+D:\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.pdb
+D:\开票系统\RegMakeInvSys\bin\Debug\RegMakeInvSys.exe
+D:\开票系统\RegMakeInvSys\bin\Debug\RegMakeInvSys.pdb
+D:\开票系统\RegMakeInvSys\obj\Debug\ResolveAssemblyReference.cache
+D:\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.RegMake.resources
+D:\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.Properties.Resources.resources
+D:\开票系统\RegMakeInvSys\obj\Debug\RegMakeInvSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\RegMakeInvSys\bin\Debug\RegMakeInvSys.exe
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\RegMakeInvSys\bin\Debug\RegMakeInvSys.pdb
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\RegMakeInvSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\RegMakeInvSys\obj\Debug\RegMakeInvSys.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\RegMakeInvSys\obj\Debug\RegMakeInvSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\RegMakeInvSys\obj\Debug\RegMakeInvSys.exe
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\RegMakeInvSys\obj\Debug\RegMakeInvSys.pdb
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\RegMakeInvSys\obj\Debug\PrintSystem.RegMake.resources
+D:\正处理\PrintSystem (7-14)\RegMakeInvSys\bin\Debug\RegMakeInvSys.exe
+D:\正处理\PrintSystem (7-14)\RegMakeInvSys\bin\Debug\RegMakeInvSys.pdb
+D:\正处理\PrintSystem (7-14)\RegMakeInvSys\obj\Debug\ResolveAssemblyReference.cache
+D:\正处理\PrintSystem (7-14)\RegMakeInvSys\obj\Debug\PrintSystem.RegMake.resources
+D:\正处理\PrintSystem (7-14)\RegMakeInvSys\obj\Debug\RegMakeInvSys.Properties.Resources.resources
+D:\正处理\PrintSystem (7-14)\RegMakeInvSys\obj\Debug\RegMakeInvSys.csproj.GenerateResource.Cache
+D:\正处理\PrintSystem (7-14)\RegMakeInvSys\obj\Debug\RegMakeInvSys.exe
+D:\正处理\PrintSystem (7-14)\RegMakeInvSys\obj\Debug\RegMakeInvSys.pdb

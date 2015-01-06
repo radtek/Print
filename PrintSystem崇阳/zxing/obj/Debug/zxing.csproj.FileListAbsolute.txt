@@ -1,0 +1,58 @@
+E:\技术研究\一二维码\zxing-2.1\csharp\obj\Debug\ResolveAssemblyReference.cache
+E:\技术研究\一二维码\zxing-2.1\csharp\obj\Debug\zxing.dll
+E:\技术研究\一二维码\zxing-2.1\csharp\obj\Debug\zxing.pdb
+E:\技术研究\一二维码\zxing-2.1\csharp\zxing.dll
+E:\技术研究\一二维码\zxing-2.1\csharp\zxing.pdb
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Debug\ResolveAssemblyReference.cache
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Debug\zxing.dll
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Debug\zxing.pdb
+E:\技术研究\一二维码\myzxingTest\zxing\zxing.dll
+E:\技术研究\一二维码\myzxingTest\zxing\zxing.pdb
+C:\Users\Administrator\Desktop\Zxing\zxing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Zxing\zxing\obj\Debug\zxing.dll
+C:\Users\Administrator\Desktop\Zxing\zxing\obj\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\Zxing\zxing\zxing.dll
+C:\Users\Administrator\Desktop\Zxing\zxing\zxing.pdb
+C:\Users\Administrator\Desktop\PrintSystem - 副本\zxing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystem - 副本\zxing\obj\Debug\zxing.dll
+C:\Users\Administrator\Desktop\PrintSystem - 副本\zxing\obj\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\PrintSystem - 副本\zxing\zxing.dll
+C:\Users\Administrator\Desktop\PrintSystem - 副本\zxing\zxing.pdb
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\zxing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\zxing\obj\Debug\zxing.dll
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\zxing\obj\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\zxing\zxing.dll
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\zxing\zxing.pdb
+D:\正处理\PrintSystem (7-14)\zxing\obj\Debug\ResolveAssemblyReference.cache
+D:\正处理\PrintSystem (7-14)\zxing\obj\Debug\zxing.dll
+D:\正处理\PrintSystem (7-14)\zxing\obj\Debug\zxing.pdb
+D:\正处理\PrintSystem (7-14)\zxing\zxing.dll
+D:\正处理\PrintSystem (7-14)\zxing\zxing.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\zxing\obj\Debug\zxing.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\zxing\obj\Debug\zxing.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\zxing\zxing.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\zxing\zxing.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\zxing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\alfred\Desktop\PrintSystem (7-14)\zxing\obj\Debug\zxing.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\zxing\obj\Debug\zxing.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\zxing\zxing.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\zxing\zxing.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\obj\Debug\zxing.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\obj\Debug\zxing.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\zxing.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\zxing.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\obj\Debug\zxing.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\obj\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\zxing.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\zxing.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\obj\Debug\zxing.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\obj\Debug\zxing.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\zxing.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\zxing\zxing.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\zxing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\zxing\obj\Debug\zxing.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\zxing\obj\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\zxing\zxing.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\zxing\zxing.pdb

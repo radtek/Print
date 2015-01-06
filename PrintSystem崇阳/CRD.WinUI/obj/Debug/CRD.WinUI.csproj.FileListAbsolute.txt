@@ -1,0 +1,420 @@
+E:\仿QQ2009游戏\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\仿QQ2009游戏\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\仿QQ2009游戏\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\仿QQ2009游戏\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.Common.dll
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.Common.pdb
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+D:\正处理\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Users\adai\Desktop\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\湖北省打印系统\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\崇阳地税局\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\崇阳地税局\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\崇阳地税局\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\崇阳地税局\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\崇阳地税局\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\崇阳地税局\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\打印系统\打印\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\打印系统\打印\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\打印系统\打印\PrintSystem\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\打印系统\打印\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\打印系统\打印\PrintSystem\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\打印系统\打印\PrintSystem\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\打印系统\PrintSystem崇阳\CRD.WinUI\obj\Debug\CRD.WinUI.pdb

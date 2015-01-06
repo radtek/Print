@@ -1,0 +1,17 @@
+E:\打印系统\PrintSystem崇阳\PrintSystem\bin\Debug\PrintSystem.exe
+E:\打印系统\PrintSystem崇阳\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\打印系统\PrintSystem崇阳\PrintSystem\bin\Debug\Common.dll
+E:\打印系统\PrintSystem崇阳\PrintSystem\bin\Debug\CRD.WinUI.dll
+E:\打印系统\PrintSystem崇阳\PrintSystem\bin\Debug\CRD.Common.dll
+E:\打印系统\PrintSystem崇阳\PrintSystem\bin\Debug\Common.pdb
+E:\打印系统\PrintSystem崇阳\PrintSystem\bin\Debug\CRD.WinUI.pdb
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\PrintSystem.exe
+E:\打印系统\PrintSystem崇阳\PrintSystem\obj\Debug\PrintSystem.pdb
