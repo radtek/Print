@@ -1,0 +1,146 @@
+E:\仿QQ2009游戏\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\仿QQ2009游戏\CRD.Common\obj\Debug\CRD.Common.dll
+E:\仿QQ2009游戏\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\仿QQ2009游戏\CRD.Common\bin\Debug\CRD.Common.dll
+E:\仿QQ2009游戏\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\bin\Debug\CRD.Common.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\obj\Debug\CRD.Common.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\3g\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\ItemCode\3g\3g\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\3g\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\3g\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g\3g\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\3g\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\ItemCode\3g\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\ItemCode\Integrated Payment\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\Integrated Payment\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\Integrated Payment\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\ItemCode\Integrated Payment\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\bin\Debug\CRD.Common.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\obj\Debug\CRD.Common.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\QQSkin\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\Administrator\Desktop\QQSkin\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\QQSkin\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\QQSkin\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QQSkin\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\QQSkin\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\Administrator\Desktop\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystem\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystem - 副本\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\Administrator\Desktop\PrintSystem - 副本\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystem - 副本\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystem - 副本\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystem - 副本\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystem - 副本\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystem (7-13)\CRD.Common\obj\Debug\CRD.Common.pdb
+D:\正处理\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.dll.config
+D:\正处理\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.dll
+D:\正处理\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.pdb
+D:\正处理\PrintSystem (7-14)\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\正处理\PrintSystem (7-14)\CRD.Common\obj\Debug\CRD.Common.dll
+D:\正处理\PrintSystem (7-14)\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+E:\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\PrintSystem\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+E:\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+E:\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+C:\Users\adai\Desktop\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\adai\Desktop\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\adai\Desktop\PrintSystem\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+C:\Users\adai\Desktop\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\adai\Desktop\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\湖北省打印系统\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+E:\湖北省打印系统\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\湖北省打印系统\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+E:\湖北省打印系统\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\崇阳地税局\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+E:\崇阳地税局\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\崇阳地税局\PrintSystem\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+E:\崇阳地税局\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+E:\崇阳地税局\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\打印系统\打印\PrintSystem武汉市\CRD.Common\bin\Debug\CRD.Common.dll
+E:\打印系统\打印\PrintSystem武汉市\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\打印系统\打印\PrintSystem武汉市\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+E:\打印系统\打印\PrintSystem武汉市\CRD.Common\obj\Debug\CRD.Common.dll
+E:\打印系统\打印\PrintSystem武汉市\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Users\adai\Desktop\PrintSystem武汉市\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Users\adai\Desktop\PrintSystem武汉市\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Users\adai\Desktop\PrintSystem武汉市\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Users\adai\Desktop\PrintSystem武汉市\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\12-1 备份\PrintSystem武汉市\CRD.Common\bin\Debug\CRD.Common.dll
+E:\12-1 备份\PrintSystem武汉市\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\12-1 备份\PrintSystem武汉市\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+E:\12-1 备份\PrintSystem武汉市\CRD.Common\obj\Debug\CRD.Common.dll
+E:\12-1 备份\PrintSystem武汉市\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\打印系统\PrintSystem武汉\CRD.Common\bin\Debug\CRD.Common.dll
+E:\打印系统\PrintSystem武汉\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\打印系统\PrintSystem武汉\CRD.Common\obj\Debug\CRD.Common.dll
+E:\打印系统\PrintSystem武汉\CRD.Common\obj\Debug\CRD.Common.pdb

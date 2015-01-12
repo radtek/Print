@@ -1,0 +1,366 @@
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\ClientSystem.exe.config
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\ClientSystem.exe
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\ClientSystem.pdb
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\CRD.Common.dll
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\CRD.WinUI.dll
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\zxing.dll
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\CRD.Common.pdb
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\CRD.WinUI.pdb
+D:\正处理\PrintSystem (7-14)\ClientSystem\bin\Debug\zxing.pdb
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\ResolveAssemblyReference.cache
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.frmSetting.resources
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.Main.resources
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\ClientSystem.Properties.Resources.resources
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.RegMake.resources
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.frmLogin.resources
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\ClientSystem.exe
+D:\正处理\PrintSystem (7-14)\ClientSystem\obj\Debug\ClientSystem.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\ClientSystem.exe.config
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\ClientSystem.exe
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\ClientSystem.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\ClientSystem.exe
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\ClientSystem.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\CRD.Common.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\zxing.dll
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\CRD.Common.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\bin\Debug\zxing.pdb
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\ClientSystem.Properties.Resources.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\bh\Desktop\PrintSystem (7-14)\ClientSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\ClientSystem.exe.config
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\ClientSystem.exe
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\ClientSystem.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\ClientSystem.exe
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\ClientSystem.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\zxing.dll
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\bin\Debug\zxing.pdb
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\ClientSystem.Properties.Resources.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\alfred\Desktop\PrintSystem (7-14)\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrintSystem\PrintSystem\bin\Debug\ClientSystem.exe.config
+C:\Users\Administrator\Desktop\PrintSystem\PrintSystem\obj\Debug\ClientSystem.exe
+C:\Users\Administrator\Desktop\PrintSystem\PrintSystem\obj\Debug\ClientSystem.pdb
+E:\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+E:\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+E:\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+E:\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+E:\PrintSystem\PrintSystem\bin\Debug\zxing.dll
+E:\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+E:\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+E:\PrintSystem\PrintSystem\bin\Debug\zxing.pdb
+E:\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+E:\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+E:\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+E:\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\zxing.dll
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\zxing.pdb
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\baohuan\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\zxing.dll
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\Administrator\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\zxing.dll
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\zxing.pdb
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\alfred\Desktop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+E:\Develop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+E:\Develop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+E:\Develop\PrintSystemSetup\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\bin\Debug\zxing.dll
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\bin\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\Administrator\Desktop\源代码程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\zxing.dll
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\zxing.pdb
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\adai\Desktop\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\zxing.dll
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\bin\Debug\zxing.pdb
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\湖北省打印系统\dayin\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+E:\湖北省打印系统\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+E:\湖北省打印系统\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+E:\湖北省打印系统\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\湖北省打印系统\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+E:\湖北省打印系统\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+E:\湖北省打印系统\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+E:\湖北省打印系统\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+E:\湖北省打印系统\PrintSystem\PrintSystem\bin\Debug\ThoughtWorks.QRCode.pdb
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+E:\湖北省打印系统\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+E:\崇阳地税局\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+E:\崇阳地税局\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+E:\崇阳地税局\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\崇阳地税局\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+E:\崇阳地税局\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+E:\崇阳地税局\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+E:\崇阳地税局\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+E:\崇阳地税局\PrintSystem\PrintSystem\bin\Debug\ThoughtWorks.QRCode.pdb
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\崇阳地税局\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\Administrator\Desktop\所有程序及数据库11\崇阳打印程序\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+E:\打印\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+E:\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+E:\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+E:\打印\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+E:\打印\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\打印\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+E:\打印\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+E:\打印\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+E:\打印\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+E:\打印\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+E:\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\打印\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe.config
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\yj\Desktop\打印\PrintSystem\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.exe.config
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.exe
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.pdb
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.exe
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.Common.dll
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.WinUI.dll
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.Common.pdb
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.WinUI.pdb
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\打印系统\打印\PrintSystem武汉市\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.exe.config
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.pdb
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\Administrator\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.Main.resources
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.exe
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.pdb
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\Common.dll
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.Common.dll
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\Common.pdb
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.Common.pdb
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.exe
+C:\Users\adai\Desktop\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.pdb
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.exe
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\bin\Debug\ThoughtWorks.QRCode.dll
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.exe
+E:\12-1 备份\PrintSystem武汉市\PrintSystem\obj\Debug\PrintSystem.pdb
+E:\打印系统\PrintSystem武汉\PrintSystem\bin\Debug\PrintSystem.exe
+E:\打印系统\PrintSystem武汉\PrintSystem\bin\Debug\PrintSystem.pdb
+E:\打印系统\PrintSystem武汉\PrintSystem\bin\Debug\Common.dll
+E:\打印系统\PrintSystem武汉\PrintSystem\bin\Debug\CRD.Common.dll
+E:\打印系统\PrintSystem武汉\PrintSystem\bin\Debug\CRD.WinUI.dll
+E:\打印系统\PrintSystem武汉\PrintSystem\bin\Debug\Common.pdb
+E:\打印系统\PrintSystem武汉\PrintSystem\bin\Debug\CRD.Common.pdb
+E:\打印系统\PrintSystem武汉\PrintSystem\bin\Debug\CRD.WinUI.pdb
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\FixAssetPrintSys.csprojResolveAssemblyReference.cache
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\PrintSystem.frmSetting.resources
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\PrintSystem.Main.resources
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\PrintSystem.Properties.Resources.resources
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\PrintSystem.RegMake.resources
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\PrintSystem.TTdetails.UserControl1.resources
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\PrintSystem.frmLogin.resources
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\FixAssetPrintSys.csproj.GenerateResource.Cache
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\PrintSystem.exe
+E:\打印系统\PrintSystem武汉\PrintSystem\obj\Debug\PrintSystem.pdb

@@ -1,0 +1,59 @@
+E:\工作\ItemCode\Integrated Payment\ClientSystem\bin\Debug\ClientSystem.exe.config
+E:\工作\ItemCode\Integrated Payment\ClientSystem\bin\Debug\ClientSystem.exe
+E:\工作\ItemCode\Integrated Payment\ClientSystem\bin\Debug\ClientSystem.pdb
+E:\工作\ItemCode\Integrated Payment\ClientSystem\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\Integrated Payment\ClientSystem\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\Integrated Payment\ClientSystem\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\Integrated Payment\ClientSystem\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\Integrated Payment\ClientSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\Integrated Payment\ClientSystem\obj\Debug\ClientSystem.Main.resources
+E:\工作\ItemCode\Integrated Payment\ClientSystem\obj\Debug\ClientSystem.Properties.Resources.resources
+E:\工作\ItemCode\Integrated Payment\ClientSystem\obj\Debug\ClientSystem.csproj.GenerateResource.Cache
+E:\工作\ItemCode\Integrated Payment\ClientSystem\obj\Debug\ClientSystem.exe
+E:\工作\ItemCode\Integrated Payment\ClientSystem\obj\Debug\ClientSystem.pdb
+E:\工作\ItemCode\Integrated Payment\ClientSystem\obj\Debug\ClientSystem.TTdetails.UserControl1.resources
+E:\interim\pp\ClientSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\interim\pp\ClientSystem\obj\Debug\ClientSystem.Main.resources
+E:\interim\pp\ClientSystem\obj\Debug\ClientSystem.Properties.Resources.resources
+E:\interim\pp\ClientSystem\obj\Debug\ClientSystem.TTdetails.UserControl1.resources
+E:\interim\pp\ClientSystem\obj\Debug\ClientSystem.csproj.GenerateResource.Cache
+E:\interim\pp\ClientSystem\obj\Debug\ClientSystem.exe
+E:\interim\pp\ClientSystem\bin\Debug\ClientSystem.exe.config
+E:\interim\pp\ClientSystem\bin\Debug\ClientSystem.exe
+E:\interim\pp\ClientSystem\bin\Debug\ClientSystem.pdb
+E:\interim\pp\ClientSystem\bin\Debug\CRD.Common.dll
+E:\interim\pp\ClientSystem\bin\Debug\CRD.WinUI.dll
+E:\interim\pp\ClientSystem\bin\Debug\CRD.Common.pdb
+E:\interim\pp\ClientSystem\bin\Debug\CRD.WinUI.pdb
+E:\interim\pp\ClientSystem\obj\Debug\ClientSystem.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\bin\Debug\ClientSystem.exe.config
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\obj\Debug\ClientSystem.exe
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\obj\Debug\ClientSystem.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\bin\Debug\ClientSystem.exe
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\bin\Debug\ClientSystem.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\bin\Debug\CRD.Common.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\bin\Debug\CRD.WinUI.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\bin\Debug\CRD.Common.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\bin\Debug\CRD.WinUI.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\obj\Debug\ClientSystem.Main.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\obj\Debug\ClientSystem.Properties.Resources.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\obj\Debug\ClientSystem.TTdetails.UserControl1.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\ClientSystem\obj\Debug\ClientSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\ClientSystem.exe.config
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\obj\Debug\ClientSystem.exe
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\obj\Debug\ClientSystem.pdb
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\ClientSystem.exe
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\ClientSystem.pdb
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\CRD.Common.dll
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\CRD.WinUI.dll
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\CRD.Common.pdb
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\CRD.WinUI.pdb
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\obj\Debug\ClientSystem.Main.resources
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\obj\Debug\ClientSystem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\obj\Debug\ClientSystem.TTdetails.UserControl1.resources
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\obj\Debug\ClientSystem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\obj\Debug\QR.frmSetting.resources
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\QQSkin\ClientSystem\bin\Debug\ThoughtWorks.QRCode.pdb
